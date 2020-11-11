@@ -1,0 +1,35 @@
+# OS X
+.DS_Store*
+Icon?
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+.directory
+*~
+
+# npm
+node_modules
+*.log
+*.gz
+package-lock.json
+
+# Coveralls
+coverage
+
+# IDEs
+.vscode
+.idea
+
+# folders
+build/
+logs/
+dist/
+
+
+# ENVs
+.env
